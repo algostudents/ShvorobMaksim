@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header{
+    background-image: linear-gradient( #760244, #F1AA41);
+}
+
+header h1{
+    color: white;
+}
+
+header{
+    padding: 30px;
+    border: 3px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, table, tr{
+    border: 3px solid black;
+}
+
+td{
+    font-size: 30px;
+}
+
+.os{
+    background-color: #760244;
+    color: white;
+}
+
+.fi{
+    background-color: #F1AA41;
+    color: white;
+}
+
+table{
+    width: 750px;
+    height: 360px;
+}
+
+div{
+    display: flex;
+}
+
+.z{
+    width: 25px;
+}
